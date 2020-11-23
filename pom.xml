@@ -12,7 +12,7 @@
 	<artifactId>PlayingCardsUtil</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PlayingCardsUtil</name>
-	<description>The goal of this project is to trustworthly provide random playing cards according to the request necessities</description>
+	<description>q</description>
 
 	<properties>
 		<java.version>1.8</java.version>
