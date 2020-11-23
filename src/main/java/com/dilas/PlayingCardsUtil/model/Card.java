@@ -7,6 +7,6 @@ import lombok.Data;
 @AllArgsConstructor
 
 public class Card {
-    private String name;
+    private Name name;
     private Suit suit;
 }
